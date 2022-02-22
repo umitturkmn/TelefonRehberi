@@ -1,0 +1,11 @@
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/TelefonRehberi/obj/Debug/net6.0/TelefonRehberi.csproj.AssemblyReference.cache
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/TelefonRehberi/obj/Debug/net6.0/TelefonRehberi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/TelefonRehberi/obj/Debug/net6.0/TelefonRehberi.AssemblyInfoInputs.cache
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/TelefonRehberi/obj/Debug/net6.0/TelefonRehberi.AssemblyInfo.cs
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/TelefonRehberi/obj/Debug/net6.0/TelefonRehberi.csproj.CoreCompileInputs.cache
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/TelefonRehberi/bin/Debug/net6.0/TelefonRehberi
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/TelefonRehberi/bin/Debug/net6.0/TelefonRehberi.dll
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/TelefonRehberi/bin/Debug/net6.0/TelefonRehberi.pdb
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/TelefonRehberi/obj/Debug/net6.0/TelefonRehberi.dll
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/TelefonRehberi/obj/Debug/net6.0/ref/TelefonRehberi.dll
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/TelefonRehberi/obj/Debug/net6.0/TelefonRehberi.pdb

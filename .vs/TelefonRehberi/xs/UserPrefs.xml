@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{7FB1195A-8181-4716-B8C4-54AF5C4CD02A}|Default">
+  <MonoDevelop.Ide.ItemProperties.TelefonRehberi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../../../usr/local/share/dotnet/x64/sdk/6.0.102/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.DefaultItems.targets">
+    <Files>
+      <File FileName="Program.cs" Line="41" Column="23" />
+      <File FileName="Kisiler.cs" Line="6" Column="9" />
+      <File FileName="Metods.cs" />
+      <File FileName="../../../../../../../usr/local/share/dotnet/x64/sdk/6.0.102/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.DefaultItems.targets" Line="134" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TelefonRehberi" expanded="True">
+            <Node name="TelefonRehberi" expanded="True">
+              <Node name="Kisiler.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
