@@ -66,6 +66,9 @@ namespace TelefonRehberi
             metod.Rehber.Add(kisi3);
             metod.Rehber.Add(kisi4);
             metod.Rehber.Add(kisi5);
+            //ümit Türkmen
+            Console.Write("");
+            
         }
     }
 }
