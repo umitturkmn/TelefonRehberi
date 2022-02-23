@@ -15,13 +15,14 @@ namespace TelefonRehberi
             SahteVeriEkle();
             Console.WriteLine("Telefon Rehberinize Hoşgeldiniz...");
             Console.WriteLine("Lütfen yapmak istediğiniz işlemi seçiniz :");
-            Console.WriteLine("******************************************* ");
+            Console.WriteLine("**********************************************");
             Console.WriteLine("(1) Yeni Numara Kaydetmek "); //
             Console.WriteLine("(2) Varolan Numarayı Silmek "); //
             Console.WriteLine("(3) Varolan Numarayı Güncelleme ");
             Console.WriteLine("(4) Rehberi Listelemek ");
             Console.WriteLine("(5) Rehberde Arama Yapmak ");
             Console.WriteLine("(X) Çıkış ");
+            Console.WriteLine("**********************************************");
             
             while (true)
             {
@@ -36,13 +37,13 @@ namespace TelefonRehberi
                         metod.NumaraSilme(); // 
                         break;
                     case "3":
-                        //NumaraGuncelleme();
+                        metod.NumaraGuncelleme(); //
                         break;
                     case "4":
-                        //RehberListeleme();
+                        metod.RehberListeleme();
                         break;
                     case "5":
-                        //AramaYapma();
+                        metod.AramaYapma();
                         break;
                     case "X":
                     case "x":
